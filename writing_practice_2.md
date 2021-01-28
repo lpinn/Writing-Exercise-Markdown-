@@ -8,6 +8,7 @@ Every violinist should know how to tune the strings on their violin. Out of tune
 ## THEORY
 
 Make sure when bowing the string, you bow slowly to let the tuner pick up the sound and correctly deduce the note. A diagram of the violin is provided below for reference:
+
 ![Alt text](https://i.pinimg.com/originals/e1/73/92/e17392e52f03cfffc2070308a81c1d7d.gif)
 
 ## CAUTION 
