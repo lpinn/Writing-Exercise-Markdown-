@@ -21,8 +21,8 @@ Do not use too much force and make only small adjustments when tuning. The strin
 * Clip on - go to your nearest music store and ask an employee where to find clip on tuners. Ask for their opinion on which you should get. 
 
 ### Gauging how out of tune your violin is
-###### Note - different tuners have different ways of showing whether the string is in tune or not. Most have a needle that points to the middle if it's in tune. 
 ![Alt text](https://image.winudf.com/v2/image1/Y29tLnQ0YS50dW5lci52aW9saW5fc2NyZWVuXzBfMTU1NTU1NDIwNF8wMzg/screen-0.jpg?fakeurl=1&type=.jpg)
+###### Note - different tuners have different ways of showing whether the string is in tune or not. Most have a needle that points to the middle if it's in tune. 
 2. Turn on the tuner, clip on or app.
 3. Start with the A string, (diagram below for reference), and drag your bow across the string. 
 4. Determine how out of tune your string is. If the needle on the tuner is pointing to the very left or right, that string is very out of tune. If the needle is just a little to the left or right of the middle, that string is only a little out of tune. 
