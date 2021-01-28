@@ -46,3 +46,6 @@ Do not use too much force and make only small adjustments when tuning. The strin
 11. Repeat for the other strings.
 
 ---
+### You're done!
+
+![Alt text](https://media.giphy.com/media/4MHv5aIo6SI2A/giphy.gif)
